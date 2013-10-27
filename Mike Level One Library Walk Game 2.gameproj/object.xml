@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.4" PGFVersion="0.19" title="My Great Project">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>0</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id946643" />
+    <actor id="id232481" />
+    <actor id="id122483" />
+    <actor id="id978621" />
+    <actor id="id400785" />
+    <actor id="id140122" />
+    <actor id="id287683" />
+    <actor id="id503380" />
+    <actor id="id250664" />
+    <actor id="id441417" />
+    <actor id="id471165" />
+    <actor id="id420191" />
+    <actor id="id147422" />
+    <actor id="id350426" />
+    <actor id="id324159" />
+    <actor id="id717767" />
+    <actor id="id222986" />
+    <actor id="id772268" />
+    <actor id="id668883" />
+    <actor id="id382660" />
+    <actor id="id935557" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id529889" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+    <integer id="id891067" name="Speed">50</integer>
+    <integer id="id735605" name="Max Speed">300</integer>
+    <integer id="id311460" name="Game Timer">60</integer>
+  </attributes>
+</game>

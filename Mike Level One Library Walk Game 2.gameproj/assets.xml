@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.4">
+  <sounds />
+  <images>
+    <image name="Library Walk 1st position">
+      <file name="Library Walk 1st position.png" size="13746" />
+    </image>
+    <image name="Library Walk 2nd position">
+      <file name="Library Walk 2nd position.png" size="13716" />
+    </image>
+    <image name="Top down position 2">
+      <file name="Top down position 2.png" size="4873" />
+    </image>
+    <image name="1">
+      <file name="1.png" size="5351" />
+    </image>
+    <image name="2">
+      <file name="2.png" size="5567" />
+    </image>
+    <image name="3">
+      <file name="3.png" size="5610" />
+    </image>
+    <image name="4">
+      <file name="4.png" size="5572" />
+    </image>
+    <image name="5">
+      <file name="5.png" size="5443" />
+    </image>
+    <image name="6">
+      <file name="6.png" size="5429" />
+    </image>
+    <image name="Top down position 1">
+      <file name="Top down position 1.png" size="4989" />
+    </image>
+    <image name="Player Animation 1">
+      <file name="Player Animation 1.PNG" size="12766" />
+    </image>
+    <image name="Player Animation 2">
+      <file name="Player Animation 2.PNG" size="12784" />
+    </image>
+    <image name="Player 1 Image">
+      <file name="Player 1 Image.PNG" size="12766" />
+    </image>
+    <image name="Player1 Animation">
+      <file name="Player1 Animation.png" size="19903" />
+    </image>
+    <image name="Player2 Animation">
+      <file name="Player2 Animation.png" size="19951" />
+    </image>
+    <image name="Enemy 1 animation">
+      <file name="Enemy 1 animation.png" size="26671" />
+    </image>
+    <image name="Enemy 2 animation">
+      <file name="Enemy 2 animation.png" size="27408" />
+    </image>
+    <image name="Club 1">
+      <file name="Club 1.png" size="26671" />
+    </image>
+    <image name="Club 2">
+      <file name="Club 2.png" size="27408" />
+    </image>
+    <image name="Cropped Flyer 1">
+      <file name="Cropped Flyer 1.png" size="16824" />
+    </image>
+    <image name="Cropped Flyer 2">
+      <file name="Cropped Flyer 2.png" size="25123" />
+    </image>
+    <image name="Cropped Flyer 1 - Copy">
+      <file name="Cropped Flyer 1 - Copy.png" size="16824" />
+    </image>
+    <image name="Cropped Flyer 2 - Copy">
+      <file name="Cropped Flyer 2 - Copy.png" size="25123" />
+    </image>
+    <image name="Cropped Needle 1">
+      <file name="Cropped Needle 1.png" size="25814" />
+    </image>
+    <image name="Cropped Needle 2">
+      <file name="Cropped Needle 2.png" size="26135" />
+    </image>
+    <image name="Cropped Animation 1">
+      <file name="Cropped Animation 1.png" size="19031" />
+    </image>
+    <image name="Cropped Animation 2">
+      <file name="Cropped Animation 2.png" size="18974" />
+    </image>
+    <image name="Left Arrow">
+      <file name="Left Arrow.png" size="4224" />
+    </image>
+    <image name="Right Arrow">
+      <file name="Right Arrow.png" size="4355" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
