@@ -1,3 +1,3 @@
 # Library Walk Game
 
-## By Aaron and some other people
+By **Aaron** and some *other people*
